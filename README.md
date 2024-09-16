@@ -1,7 +1,8 @@
 # belajar-kolaborasi
 
-commit 1
+1
 
-commit 2
+2
 
-commit 3
+3
+
